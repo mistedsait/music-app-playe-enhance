@@ -24,7 +24,7 @@ To use the music app player locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mistedsait/enhance
+   git clone https://github.com/mistedsait/enhance.git
 2. Open the index.html file in your preferred web browser.
 
 ## Usage
