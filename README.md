@@ -10,7 +10,7 @@ This repository contains the code for a music app player implemented using HTML,
 
 ## Demo
 
-You can see a live demo of the music app player [here](https://enhance-production.up.railway.app/).
+You can see a live demo of the music app player [here]((https://mistedsait.github.io/music-app-playe-enhance/HCI/)).
 
 ## Screenshots
 
